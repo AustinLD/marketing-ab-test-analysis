@@ -12,7 +12,7 @@ This is a portfolio project. The data is a real ad-vs-PSA marketing experiment; 
 
 ## Stack
 
-- **Python (Pandas, SciPy, statsmodels):** validate the data, run the two-proportion z-test, chi-square, confidence intervals, and a bootstrap
+- **Python (Pandas, NumPy):** validate the data, run the two-proportion z-test, chi-square, confidence intervals, and a bootstrap, all computed directly from the formulas
 - **SQL (window functions, CTEs):** conversion rates by group, exposure buckets, cumulative conversion, segment lift
 - **Power BI:** experiment results dashboard
 - **GitHub:** version control

@@ -30,7 +30,7 @@ Findings are for skill demonstration, not a real campaign decision.
 | :---- | :---- | :---- |
 | Data prep | Python (Pandas) | Load 588K rows, validate, check group balance and data quality |
 | SQL analysis | SQL (CTEs, window functions) | Conversion rates by group, exposure buckets, cumulative conversion curves, segment lift |
-| Statistics | Python (SciPy, statsmodels) | Two-proportion z-test, chi-square, confidence intervals, bootstrap, power check |
+| Statistics | Python (Pandas, NumPy) | Two-proportion z-test, chi-square, confidence intervals, bootstrap, power check, computed directly from the formulas |
 | Visualization | Power BI | Experiment results dashboard: lift, significance, conversion by segment |
 | Version control | GitHub | Code, SQL scripts, README, case study |
 
